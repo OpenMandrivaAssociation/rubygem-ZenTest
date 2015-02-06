@@ -3,7 +3,7 @@
 Summary:    ZenTest provides 4 different tools: zentest, unit_diff, autotest, and multiruby
 Name:       rubygem-%{oname}
 Version:    4.4.0
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    MIT
 URL:        http://www.zenspider.com/ZSS/Products/ZenTest/
